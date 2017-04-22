@@ -18,5 +18,5 @@ RNN size                | 100    |
 LSTM layers             | 2      |
 Encoding embedding size | 100    |
 Decoding embedding size | 100    |
-Learning rate           | 0.005  |
+Learning rate           | 0.001  |
 Keep probability        | 0.9    |
